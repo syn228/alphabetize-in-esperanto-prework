@@ -1,5 +1,5 @@
 require 'pry'
 
 def alphabetize(arr)
-  esperanto_alphabet = 
+  esperanto_alphabet = ["a, b, c, "]
 end
