@@ -5,5 +5,6 @@ def alphabetize(arr)
   arr.sort_by do |phrases|
   phrases.split(" ").collect do |alphabets|
     esperanto_alphabet.index(alphabets)
+    end
   end
 end
